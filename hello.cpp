@@ -1,6 +1,6 @@
 /**
  * @file hello.cpp
- * @author Steven R. Robertson (srober22@utm.edu)
+ * @author Steven Robertson (steven@utm.edu)
  * @brief 
  */
 #include <iostream>
